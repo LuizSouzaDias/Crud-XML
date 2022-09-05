@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud-XML", "Crud-XML\Crud-XML.csproj", "{E6D4CD16-2425-4E13-96BE-FFE3F185567E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D4CD16-2425-4E13-96BE-FFE3F185567E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D4CD16-2425-4E13-96BE-FFE3F185567E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D4CD16-2425-4E13-96BE-FFE3F185567E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D4CD16-2425-4E13-96BE-FFE3F185567E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2464AB62-E768-4374-BC0F-F7F36B20D2CB}
+	EndGlobalSection
+EndGlobal

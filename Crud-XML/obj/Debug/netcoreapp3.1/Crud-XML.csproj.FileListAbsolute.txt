@@ -1,0 +1,16 @@
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\bin\Debug\netcoreapp3.1\Crud-XML.exe
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\bin\Debug\netcoreapp3.1\Crud-XML.deps.json
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\bin\Debug\netcoreapp3.1\Crud-XML.runtimeconfig.json
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\bin\Debug\netcoreapp3.1\Crud-XML.runtimeconfig.dev.json
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\bin\Debug\netcoreapp3.1\Crud-XML.dll
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\bin\Debug\netcoreapp3.1\Crud-XML.pdb
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.csproj.AssemblyReference.cache
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud_XML.Form1.resources
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.csproj.GenerateResource.cache
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.AssemblyInfoInputs.cache
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.AssemblyInfo.cs
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.csproj.CoreCompileInputs.cache
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.dll
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.pdb
+C:\Users\luizh\source\repos\Crud-XML\Crud-XML\obj\Debug\netcoreapp3.1\Crud-XML.genruntimeconfig.cache
